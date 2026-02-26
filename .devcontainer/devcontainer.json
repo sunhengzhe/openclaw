@@ -1,0 +1,4 @@
+{
+  "name": "codespace",
+  "postStartCommand": "bash scripts/start-openclaw-gateway.sh"
+}
